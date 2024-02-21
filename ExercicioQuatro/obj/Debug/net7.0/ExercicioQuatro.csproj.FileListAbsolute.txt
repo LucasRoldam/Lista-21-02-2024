@@ -1,0 +1,15 @@
+C:\Users\facec.lab04\source\repos\Lista\ExercicioQuatro\bin\Debug\net7.0\ExercicioQuatro.exe
+C:\Users\facec.lab04\source\repos\Lista\ExercicioQuatro\bin\Debug\net7.0\ExercicioQuatro.deps.json
+C:\Users\facec.lab04\source\repos\Lista\ExercicioQuatro\bin\Debug\net7.0\ExercicioQuatro.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\Lista\ExercicioQuatro\bin\Debug\net7.0\ExercicioQuatro.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioQuatro\bin\Debug\net7.0\ExercicioQuatro.pdb
+C:\Users\facec.lab04\source\repos\Lista\ExercicioQuatro\obj\Debug\net7.0\ExercicioQuatro.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioQuatro\obj\Debug\net7.0\ExercicioQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Lista\ExercicioQuatro\obj\Debug\net7.0\ExercicioQuatro.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioQuatro\obj\Debug\net7.0\ExercicioQuatro.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Lista\ExercicioQuatro\obj\Debug\net7.0\ExercicioQuatro.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioQuatro\obj\Debug\net7.0\ExercicioQuatro.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioQuatro\obj\Debug\net7.0\refint\ExercicioQuatro.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioQuatro\obj\Debug\net7.0\ExercicioQuatro.pdb
+C:\Users\facec.lab04\source\repos\Lista\ExercicioQuatro\obj\Debug\net7.0\ExercicioQuatro.genruntimeconfig.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioQuatro\obj\Debug\net7.0\ref\ExercicioQuatro.dll

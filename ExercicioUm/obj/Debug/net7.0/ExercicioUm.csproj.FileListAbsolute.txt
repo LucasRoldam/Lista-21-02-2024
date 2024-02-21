@@ -1,0 +1,15 @@
+C:\Users\facec.lab04\source\repos\Lista\ExercicioUm\bin\Debug\net7.0\ExercicioUm.exe
+C:\Users\facec.lab04\source\repos\Lista\ExercicioUm\bin\Debug\net7.0\ExercicioUm.deps.json
+C:\Users\facec.lab04\source\repos\Lista\ExercicioUm\bin\Debug\net7.0\ExercicioUm.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\Lista\ExercicioUm\bin\Debug\net7.0\ExercicioUm.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioUm\bin\Debug\net7.0\ExercicioUm.pdb
+C:\Users\facec.lab04\source\repos\Lista\ExercicioUm\obj\Debug\net7.0\ExercicioUm.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioUm\obj\Debug\net7.0\ExercicioUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Lista\ExercicioUm\obj\Debug\net7.0\ExercicioUm.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioUm\obj\Debug\net7.0\ExercicioUm.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Lista\ExercicioUm\obj\Debug\net7.0\ExercicioUm.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioUm\obj\Debug\net7.0\ExercicioUm.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioUm\obj\Debug\net7.0\refint\ExercicioUm.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioUm\obj\Debug\net7.0\ExercicioUm.pdb
+C:\Users\facec.lab04\source\repos\Lista\ExercicioUm\obj\Debug\net7.0\ExercicioUm.genruntimeconfig.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioUm\obj\Debug\net7.0\ref\ExercicioUm.dll

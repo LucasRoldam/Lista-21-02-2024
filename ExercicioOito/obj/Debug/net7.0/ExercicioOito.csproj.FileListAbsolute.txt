@@ -1,0 +1,15 @@
+C:\Users\facec.lab04\source\repos\Lista\ExercicioOito\obj\Debug\net7.0\ExercicioOito.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioOito\obj\Debug\net7.0\ExercicioOito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Lista\ExercicioOito\obj\Debug\net7.0\ExercicioOito.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioOito\obj\Debug\net7.0\ExercicioOito.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Lista\ExercicioOito\obj\Debug\net7.0\ExercicioOito.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioOito\bin\Debug\net7.0\ExercicioOito.exe
+C:\Users\facec.lab04\source\repos\Lista\ExercicioOito\bin\Debug\net7.0\ExercicioOito.deps.json
+C:\Users\facec.lab04\source\repos\Lista\ExercicioOito\bin\Debug\net7.0\ExercicioOito.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\Lista\ExercicioOito\bin\Debug\net7.0\ExercicioOito.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioOito\bin\Debug\net7.0\ExercicioOito.pdb
+C:\Users\facec.lab04\source\repos\Lista\ExercicioOito\obj\Debug\net7.0\ExercicioOito.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioOito\obj\Debug\net7.0\refint\ExercicioOito.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioOito\obj\Debug\net7.0\ExercicioOito.pdb
+C:\Users\facec.lab04\source\repos\Lista\ExercicioOito\obj\Debug\net7.0\ExercicioOito.genruntimeconfig.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioOito\obj\Debug\net7.0\ref\ExercicioOito.dll

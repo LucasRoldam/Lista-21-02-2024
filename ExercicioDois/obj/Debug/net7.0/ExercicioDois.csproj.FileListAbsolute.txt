@@ -1,0 +1,15 @@
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDois\bin\Debug\net7.0\ExercicioDois.exe
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDois\bin\Debug\net7.0\ExercicioDois.deps.json
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDois\bin\Debug\net7.0\ExercicioDois.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDois\bin\Debug\net7.0\ExercicioDois.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDois\bin\Debug\net7.0\ExercicioDois.pdb
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDois\obj\Debug\net7.0\ExercicioDois.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDois\obj\Debug\net7.0\ExercicioDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDois\obj\Debug\net7.0\ExercicioDois.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDois\obj\Debug\net7.0\ExercicioDois.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDois\obj\Debug\net7.0\ExercicioDois.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDois\obj\Debug\net7.0\ExercicioDois.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDois\obj\Debug\net7.0\refint\ExercicioDois.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDois\obj\Debug\net7.0\ExercicioDois.pdb
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDois\obj\Debug\net7.0\ExercicioDois.genruntimeconfig.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDois\obj\Debug\net7.0\ref\ExercicioDois.dll

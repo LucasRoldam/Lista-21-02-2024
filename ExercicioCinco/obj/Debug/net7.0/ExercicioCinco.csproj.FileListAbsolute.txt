@@ -1,0 +1,15 @@
+C:\Users\facec.lab04\source\repos\Lista\ExercicioCinco\bin\Debug\net7.0\ExercicioCinco.exe
+C:\Users\facec.lab04\source\repos\Lista\ExercicioCinco\bin\Debug\net7.0\ExercicioCinco.deps.json
+C:\Users\facec.lab04\source\repos\Lista\ExercicioCinco\bin\Debug\net7.0\ExercicioCinco.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\Lista\ExercicioCinco\bin\Debug\net7.0\ExercicioCinco.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioCinco\bin\Debug\net7.0\ExercicioCinco.pdb
+C:\Users\facec.lab04\source\repos\Lista\ExercicioCinco\obj\Debug\net7.0\ExercicioCinco.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioCinco\obj\Debug\net7.0\ExercicioCinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Lista\ExercicioCinco\obj\Debug\net7.0\ExercicioCinco.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioCinco\obj\Debug\net7.0\ExercicioCinco.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Lista\ExercicioCinco\obj\Debug\net7.0\ExercicioCinco.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioCinco\obj\Debug\net7.0\ExercicioCinco.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioCinco\obj\Debug\net7.0\refint\ExercicioCinco.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioCinco\obj\Debug\net7.0\ExercicioCinco.pdb
+C:\Users\facec.lab04\source\repos\Lista\ExercicioCinco\obj\Debug\net7.0\ExercicioCinco.genruntimeconfig.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioCinco\obj\Debug\net7.0\ref\ExercicioCinco.dll

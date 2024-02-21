@@ -1,0 +1,15 @@
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDez\bin\Debug\net7.0\ExercicioDez.exe
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDez\bin\Debug\net7.0\ExercicioDez.deps.json
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDez\bin\Debug\net7.0\ExercicioDez.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDez\bin\Debug\net7.0\ExercicioDez.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDez\bin\Debug\net7.0\ExercicioDez.pdb
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDez\obj\Debug\net7.0\ExercicioDez.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDez\obj\Debug\net7.0\ExercicioDez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDez\obj\Debug\net7.0\ExercicioDez.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDez\obj\Debug\net7.0\ExercicioDez.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDez\obj\Debug\net7.0\ExercicioDez.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDez\obj\Debug\net7.0\ExercicioDez.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDez\obj\Debug\net7.0\refint\ExercicioDez.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDez\obj\Debug\net7.0\ExercicioDez.pdb
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDez\obj\Debug\net7.0\ExercicioDez.genruntimeconfig.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioDez\obj\Debug\net7.0\ref\ExercicioDez.dll

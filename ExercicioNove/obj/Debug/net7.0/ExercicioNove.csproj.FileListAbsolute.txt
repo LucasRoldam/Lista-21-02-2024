@@ -1,0 +1,15 @@
+C:\Users\facec.lab04\source\repos\Lista\ExercicioNove\bin\Debug\net7.0\ExercicioNove.exe
+C:\Users\facec.lab04\source\repos\Lista\ExercicioNove\bin\Debug\net7.0\ExercicioNove.deps.json
+C:\Users\facec.lab04\source\repos\Lista\ExercicioNove\bin\Debug\net7.0\ExercicioNove.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\Lista\ExercicioNove\bin\Debug\net7.0\ExercicioNove.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioNove\bin\Debug\net7.0\ExercicioNove.pdb
+C:\Users\facec.lab04\source\repos\Lista\ExercicioNove\obj\Debug\net7.0\ExercicioNove.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioNove\obj\Debug\net7.0\ExercicioNove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Lista\ExercicioNove\obj\Debug\net7.0\ExercicioNove.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioNove\obj\Debug\net7.0\ExercicioNove.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Lista\ExercicioNove\obj\Debug\net7.0\ExercicioNove.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioNove\obj\Debug\net7.0\ExercicioNove.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioNove\obj\Debug\net7.0\refint\ExercicioNove.dll
+C:\Users\facec.lab04\source\repos\Lista\ExercicioNove\obj\Debug\net7.0\ExercicioNove.pdb
+C:\Users\facec.lab04\source\repos\Lista\ExercicioNove\obj\Debug\net7.0\ExercicioNove.genruntimeconfig.cache
+C:\Users\facec.lab04\source\repos\Lista\ExercicioNove\obj\Debug\net7.0\ref\ExercicioNove.dll
